@@ -52,5 +52,3 @@ When you no longer need this sample application running live, you can delete it 
 1. Visit the Apps control panel at https://cloud.digitalocean.com/apps.
 2. Navigate to the sample app.
 3. In the **Settings** tab, click **Destroy**.
-
-**Note: If you do not delete your app, charges for using DigitalOcean services will continue to accrue.**
