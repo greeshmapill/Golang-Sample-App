@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Deploy the app
         id: deploy
-        uses: digitalocean/app_actions/deploy@main
+        uses: digitalocean/app_action/deploy@main
         with:
           deploy_pr_preview: "true"
           token: ${{ secrets.DIGITALOCEAN_ACCESS_TOKEN }}
